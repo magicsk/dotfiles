@@ -1,0 +1,35 @@
+[Added Associations]
+image/png=viewnior.desktop;
+image/jpeg=viewnior.desktop;
+image/gif=viewnior.desktop;
+image/svg+xml=viewnior.desktop;
+text/x-csrc=geany.desktop;
+text/plain=vscodium.desktop;geany.desktop;
+application/x-shellscript=geany.desktop;
+application/x-theme=geany.desktop;
+application/json=geany.desktop;
+x-scheme-handler/http=xfce4-web-browser.desktop;userapp-Nightly-QPD5A1.desktop;
+x-scheme-handler/https=xfce4-web-browser.desktop;userapp-Nightly-QPD5A1.desktop;
+x-scheme-handler/tg=userapp-Telegram Desktop-EJ09A1.desktop;
+inode/directory=xfce4-file-manager.desktop;
+x-scheme-handler/trash=xfce4-file-manager.desktop;
+audio/mpeg=mpv.desktop;
+application/x-xz-compressed-tar=xarchiver.desktop;org.gnome.Nautilus.desktop;
+application/zip=xarchiver.desktop;
+
+[Default Applications]
+image/gif=viewnior.desktop
+image/svg+xml=viewnior.desktop
+x-scheme-handler/http=userapp-Nightly-QPD5A1.desktop
+x-scheme-handler/https=userapp-Nightly-QPD5A1.desktop
+x-scheme-handler/chrome=userapp-Nightly-QPD5A1.desktop
+text/html=userapp-Nightly-QPD5A1.desktop
+application/x-extension-htm=userapp-Nightly-QPD5A1.desktop
+application/x-extension-html=userapp-Nightly-QPD5A1.desktop
+application/x-extension-shtml=userapp-Nightly-QPD5A1.desktop
+application/xhtml+xml=userapp-Nightly-QPD5A1.desktop
+application/x-extension-xhtml=userapp-Nightly-QPD5A1.desktop
+application/x-extension-xht=userapp-Nightly-QPD5A1.desktop
+x-scheme-handler/tg=userapp-Telegram Desktop-EJ09A1.desktop
+inode/directory=xfce4-file-manager.desktop
+x-scheme-handler/trash=xfce4-file-manager.desktop
